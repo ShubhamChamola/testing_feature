@@ -1,0 +1,6 @@
+projectKey=codesign-luna
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=codesign-luna
+ceTaskId=2c95eea1-f8fb-4acd-9fdd-70dbcafbaa3b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2c95eea1-f8fb-4acd-9fdd-70dbcafbaa3b
